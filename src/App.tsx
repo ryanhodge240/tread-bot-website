@@ -8,6 +8,7 @@ function App() {
 		<>
 			<div>
 				<button onClick={() => ws.send('Test Message')}>Test Communication</button>
+				<p>Test</p>
 			</div>
 		</>
 	);
