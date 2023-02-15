@@ -1,6 +1,7 @@
+import React from "react";
 import Styles from "./AppStyles";
 
-const PORT = 8989;
+const PORT = 80;
 const WS_URL = `wss://192.168.1.1:${PORT}/ws`
 const ws = new WebSocket(WS_URL)
 
