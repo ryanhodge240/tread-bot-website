@@ -1,3 +1,6 @@
+# Update submodules from remote
+`git submodule update --remote`
+
 # Getting Started with Create React App
 Test
 
